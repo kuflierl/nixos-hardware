@@ -4,7 +4,7 @@
     ../../../common/cpu/intel
     ../../../common/pc/laptop
     ../../../common/pc/laptop/ssd
-    ./fingerprint
+    #./fingerprint
   ];
 
   boot.initrd.availableKernelModules = [ "xhci_pci" "thunderbolt" "nvme" "rtsx_pci_sdmmc" ];
