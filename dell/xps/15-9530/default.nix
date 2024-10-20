@@ -7,6 +7,9 @@
     ./fingerprint
   ];
 
+  boot.initrd.availableKernelModules = [ "xhci_pci" "thunderbolt" "nvme" "rtsx_pci_sdmmc" ];
+  boot.kernelModules = [ "kvm-intel" ];
+
   # This will save you money and possibly your life!
   services.thermald.enable = lib.mkDefault true;
 
