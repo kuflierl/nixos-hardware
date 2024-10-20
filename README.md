@@ -150,6 +150,8 @@ See code for all available configurations.
 | [Dell XPS 15 9510](dell/xps/15-9510)                                   | `<nixos-hardware/dell/xps/15-9510>`                     |
 | [Dell XPS 15 9520, nvidia](dell/xps/15-9520/nvidia)                    | `<nixos-hardware/dell/xps/15-9520/nvidia>`              |
 | [Dell XPS 15 9520](dell/xps/15-9520)                                   | `<nixos-hardware/dell/xps/15-9520>`                     |
+| [Dell XPS 15 9530, nvidia](dell/xps/15-9530/nvidia)                    | `<nixos-hardware/dell/xps/15-9530/nvidia>`              |
+| [Dell XPS 15 9530](dell/xps/15-9530)                                   | `<nixos-hardware/dell/xps/15-9530>`                     |
 | [Dell XPS 15 9550, nvidia](dell/xps/15-9550/nvidia)                    | `<nixos-hardware/dell/xps/15-9550/nvidia>`              |
 | [Dell XPS 15 9550](dell/xps/15-9550)                                   | `<nixos-hardware/dell/xps/15-9550>`                     |
 | [Dell XPS 15 9560, intel only](dell/xps/15-9560/intel)                 | `<nixos-hardware/dell/xps/15-9560/intel>`               |
@@ -335,7 +337,7 @@ See code for all available configurations.
 | [System76 (generic)](system76)                                         | `<nixos-hardware/system76>`                             |
 | [System76 Darter Pro 6](system76/darp6)                                | `<nixos-hardware/system76/darp6>`                       |
 | [System76 Gazelle 18](system76/gaze18)                             | `<nixos-hardware/system76/gaze18>`                      |
-| [System76 Galago Pro 5](system76/galp5-1650)                           | `<nixos-hardware/system76/galp5-1650>`                  | 
+| [System76 Galago Pro 5](system76/galp5-1650)                           | `<nixos-hardware/system76/galp5-1650>`                  |
 | [Toshiba Chromebook 2 `swanky`](toshiba/swanky)                        | `<nixos-hardware/toshiba/swanky>`                       |
 | [Tuxedo InfinityBook v4](tuxedo/infinitybook/v4)                       | `<nixos-hardware/tuxedo/infinitybook/v4>`               |
 | [TUXEDO Aura 15 - Gen1](tuxedo/aura/15/gen1)                           | `<nixos-hardware/tuxedo/aura/15/gen1>`                  |
